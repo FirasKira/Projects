@@ -11,6 +11,7 @@ namespace testToGit
         static void Main(string[] args)
         {
             System.Console.WriteLine("Test");
+            //Here is new comment to check updating
         }
     }
 }
